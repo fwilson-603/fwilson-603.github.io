@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fwilson-603.github.io/sitemap.xml
