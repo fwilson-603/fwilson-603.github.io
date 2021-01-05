@@ -113,15 +113,15 @@ can also contribute to placement here.)
 
 In no particular order:
 
-1. The calculating stars
+1. The eye of the world
 
-2. Redshirts
+2. the stolen lake
 
-3. 
+3. Horns
 
-4. 
+4. The Testaments
 
-5. 
+5. the beach
 
 # Reflection
 
@@ -162,3 +162,95 @@ What's next year's theme going to be?
 | The Andromeda Strain | Michael Crichton |
 | A Long Way Home | Saroo Brierley |
 | The Calculating Stars | Mary Robinette Kowal |
+| Tea With the Black Dragon | R.A. MacAvoy |
+| Dinner at the Homesick Restaurant | Anne Tyler |
+| The Mysterious Affair at Styles | Agatha Christie |
+| Rubaiyat of Omar Khayyam | Omar Khayyam |
+| A Wrinkle in Time | Madeline L'engle |
+| Shadow Daughter: A Memoir of Estrangement | Harriet Brown |
+| The Last Policeman | Ben H. Winters |
+| Crazy Rich Asians | Kevin Kwan |
+| The Murder on the Links | Agatha Christie |
+| Horns | Joe Hill |
+| The Running Man | Richard Bachman (a.k.a. Stephen King) |
+| My Real Children | Jo Walton |
+| The Hanging Stranger | Philip K. Dick |
+| Robopocalypse | Daniel H. Wilson |
+| A Short History of Tractors in Ukranian | Marina Lewycka |
+| Tunnel in the Sky | Robert A. Heinlein |
+| China Rich Girlfriend | Kevin Kwan |
+| The Obelisk Gate | N.K. Jemisin |
+| Rosemary's Baby | Ira Levin |
+| Make Room! Make Room! | Harry Harrison |
+| Fever Dream | Samata Scweblin |
+| Death Note (Volume 3) | Tsugumi Ohba |
+| Spin | Robert Charles Wilson |
+| Adult Children of Emotionally Immature Parents | Lindsay C. Gibson |
+| Voices | Ursula K. LeGuin |
+| Odd Thomas | Dean Koontz |
+| The Tenant of Wildfell Hall | Anne Bronte! |
+| China Mountain Zhang | Maureen F. McHugh |
+| Mrs. Dalloway | Virginia Woolf |
+| A Stranger in Olondria | Sofia Samatar |
+| Alice | Christina Henry |
+| MaddAddam | Margaret Atwood |
+| The Secret Adversary | Agatha Christie |
+| The Scarlet Pimpernel | Baroness Orczy |
+| Rainbow's End | Vernor Vinge |
+| Elantris | Brandon Sanderson |
+| The Buried Giant | Kazuo Ishiguro |
+| The Ladies of Grace Adieu and Other Stores | Susanna Clarke |
+| PS, I Love You | Cecilia Ahern |
+| Planet of Exile | Ursula K. LeGuin |
+| Planetfall | Emma Newman |
+| The Black Spider | Jeremias Gotthelf |
+| The World at the End of Time | Frederick Pohl |
+| Artificial Condition | Martha Wells |
+| The Testaments | Margaret Atwood |
+| The Age of Innocence | Edith Wharton |
+| And the Sea Will Tell | Vincent Bugliosi with Bruce E. Henderson |
+| The Worshippers | Damon Knight |
+| Diaspora | Greg Egan |
+| The Fold | Peter Clines |
+| The Beach | Alex Garland |
+| Killing Gravity | Corey J. White |
+| Deathworld | Harry Harrison |
+| The Stone Sky | N.K. Jemisin |
+| Damnation Alley | Roger Zelazny |
+| The Eye of the World | Robert Jordan |
+| The Big Trip Up Yonder | Kurt Vonnegut |
+| The Armored Saint | Myke Cole |
+| Rogue Protocol | Martha Wells |
+| The Well of Loneliness | Radclyffe Hall |
+| Amatka | Karin Tidbeck |
+| Death Note (Volume 4) | Tsugumi Ohba & Takeshi Obata |
+| Gorillas in the Mist | Dian Fossey |
+| Ancillary Sword | Ann Leckie |
+| Sleeping Giants | Sylvain Neuvel |
+| The Goblin Emperor | Katherine Addison |
+| The Outside | Ada Hoffmann |
+| The Night Watch | Sergei Lukyanenko |
+| The Stand (Complete Edition) | Stephen King |
+| Murder on the Orient Express | Agatha Christie |
+| The Stolen Lake | Joan Aiken |
+| Beggars in Spain | Nancy Kress |
+| The Devil You Know | K.J. Parker |
+| Strangers on a Train | Patricia Highsmith |
+| How to Live Safely in a Science Fiction Universe | Charles Yu |
+| A Head Full of Ghosts | Paul Tremblay |
+| O Pioneers! | Willa Cather |
+| The Tailor of Gloucester | Beatrix Potter |
+| The Female Man | Joanna Russ |
+| Too Like the Lightning | Ada Palmer |
+| Exo | Fonda Lee |
+| Exit Strategy | Martha Wells |
+| Goth | Otsuichi |
+| Don't Bite the Sun | Tanith Lee |
+| The Gone World | Tom Sweterlitsch |
+| Couch | Benjamin Parzybok |
+| The Call of Cthulu | H.P. Lovecraft |
+| The Way of Kings | Brandon Sanderson |
+| Witchmark | C.L. Polk |
+| Piper in the Woods | Philip K. Dick |
+| Lovecraft Country | Matt Ruff |
+- resume August 21
