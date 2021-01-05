@@ -83,6 +83,10 @@ December: 10
 
 **Written by a person of colour:**
 
+**Written (originally) in a language other than English:**
+
+**Genre Breakdown:**
+
 # The Best and the Worst
 
 ## The Best Five Books
@@ -109,9 +113,9 @@ can also contribute to placement here.)
 
 In no particular order:
 
-1. 
+1. The calculating stars
 
-2. 
+2. Redshirts
 
 3. 
 
@@ -130,3 +134,31 @@ What's next year's theme going to be?
 | Title | Author |
 | ----------- | ----------- |
 | insert title here | insert author here |
+| Redshirts | John Scalzi |
+| Sphere | Michael Crighton |
+| Brown Girl in the Ring | Nalo Hopkinson |
+| Andersen's Fairy Tales | H.C. Andersen |
+| Blue Mars | Kim Stanley Robinson |
+| Bonjour Tristesse | Franc!oise Sagan |
+| Arrival | Ted Chiang |
+| Lagoon | Nnedi Okorafor |
+| Death's End | Cixin Liu |
+| Ishmael | Daniel Quinn |
+| Gifts | Ursula K. LeGuin |
+| Daemon | Daniel Suarez |
+| I Have No Mouth and I Must Scream | Harlan Ellison |
+| Armada | Ernest Cline |
+| Understanding the Borderline Mother | Christine Ann Lawson |
+| 11/22/63 | Stephen King |
+| Cuckoo's Egg | C.J. Cherryh |
+| Eon | Greg Bear |
+| Flow My Tears, the Policeman Said | Philip K. Dick |
+| Dragonflight | Anne McCaffrey |
+| Colorless Tsukuru Tazaki and his Years of Pilgrimage | Haruki Murakami |
+| The Girl with All the Gifts | M.R. Carey |
+| The Long Walk | Richard Bachman (a.k.a. Stephen King |
+| Let the Right One In | John Ajvide Lindqvist |
+| Binti | Nnedi Okorafor |
+| The Andromeda Strain | Michael Crichton |
+| A Long Way Home | Saroo Brierley |
+| The Calculating Stars | Mary Robinette Kowal |
