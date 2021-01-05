@@ -253,4 +253,48 @@ What's next year's theme going to be?
 | Witchmark | C.L. Polk |
 | Piper in the Woods | Philip K. Dick |
 | Lovecraft Country | Matt Ruff |
-- resume August 21
+| Vox | Christina Dalcher |
+| A Shadow in Summer | Daniel Abraham |
+| The Tunnel Under the World | Frederick Pohl |
+| Solitaire | Kelley Eskridge |
+| The Lamb Will Slaughter the Lion | Margaret Killjoy |
+| The Buddha in the Attic | Julie Otsuka |
+| The Variable Man | Philip K. Dick |
+| Silver in the Wood | Emily Tesh |
+| Youth | Isaac Asimov |
+| The Fires Beneath the Sea | Lydia Millet |
+| The Hoofer | Walter M. Miller Jr. |
+| A Darker Shade of Magic | V.E. Schwab |
+| The Skull | Philip K. Dick |
+| Bel Canto | Ann Patchett |
+| Frankenstein (1818 Edition) | Mary Shelley |
+| The Amityville Horror | Jay Anson |
+| The Hellbound Heart | Clive Barker |
+| The Black Company | Glen Cook |
+| Kafka on the Shore | Haruki Murakami |
+| Misery | Stephen King |
+| Stalling for Time | Gary Noesner |
+| The Complete Poetical Works of Edgar Allan Poe | Edgar Allan Poe |
+| The Second Variety | Philip K. Dick |
+| Sula | Toni Morrison |
+| Sounds Like Titanic | Jessica Chiccehitto Hindman |
+| The Machine Stops | E.M. Forster |
+| The Long Way to a Small Angry Planet | Becky Chambers |
+| Poirot Investigates | Agatha Christie |
+| The Just City | Jo Walton |
+| A Princess of Mars | Edgar Rice Burroughs |
+| Words of Radiance | Brandon Sanderson |
+| The Grace of Kings | Ken Liu |
+| The Wall of Storms | Ken Liu |
+| The Boy Who was Raised as a Dog | Bruce Perry and Maia Szalavitz |
+| The Eyes Have it | Philip K. Dick |
+| Every Heart a Doorway | Seanan McGuire |
+| The Liminal People | Ayize Jama-Everett |
+| Conditionally Human | Walter M. Miller Jr. |
+| Passing Strange | Ellen Klages |
+| The Gun | Philip K. Dick |
+| The Jewels of Aptor | Samuel R. Delany |
+| The Defenders | Philip K. Dick |
+| The Crystal Crypt | Philip K. Dick |
+| Beyond the Door | Philip K. Dick |
+| A Taste of Honey | Kai Ashante Wilson |
