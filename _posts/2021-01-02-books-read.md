@@ -113,15 +113,20 @@ can also contribute to placement here.)
 
 In no particular order:
 
-1. The eye of the world
+1. The Eye of the World, by Robert Jordan.
+This is the first in a much beloved classic fantasy series, so I was hoping for a straightforward, well-written fantasy epic. Unfortunately, I just found it dull. It took me a long time to finish reading it, and it took a lot of effort to keep going through much of it. It was as if the "get out of the shire" part of the Fellowship of the Ring was extended to take over the first 75% of the book, with a quick "let's save the world" story thrown in at the end out of nowhere. Didn't much care for the characters either. I suspect that this is one of those books that was more interesting when it first came out, but has since been lapped by later developments in the fantasy genre. Won't be reading the next one.
 
-2. the stolen lake
+2. The Stolen Lake, by Joan Aiken.
+I was quite hopeful for this one, on the grounds that I'd previously read a collection of Joan Aiken short stories, and found them hauntingly strange and jarring. The stories had this tendency to cut off at unexpected moments, which sounds like it should be frustrating, but was just compelling. As it turns out, this novel didn't live up to that promise. Possibly it was let down by lack of background (I didn't realize when I picked it up that it was at least the second member of a series), but in general the writing style and story didn't appeal to me much. A rather bog-standard mid-ninteenth century British children's book; skillfully made for what it was, but very much not my thing these days.
 
-3. Horns
+3. Horns, by Joe Hill.
+This one I was quite looking forward to for two reasons: 1) Joe Hill's "Heart-Shaped Box" scared me quite effectively when I read it in 2007/8, and 2) The film version of "Horns" was pretty entertaining (a quality that I'm now, in retrospect, putting 90% of the credit for on Daniel Radcliffe's shoulders as the lead). The book was respectably well-written, but it left an ashy taste in my mouth. For one thing, it didn't scare me at all, and I'd been hoping for horror (possibly unfairly). The bigger issue is that it left me feeling, a little gross?
 
-4. The Testaments
+**Spoilers Incoming** Unlike in the film, we spend about a third of the book from the perspective of the murderer, who has a deeply psychopathic vision of women. The other two thirds of the book are from the protagonist's perspective, a man who is himself decent, but definitely has his own borderline misogynistic views (of the 'casually acquired from living in a patriarchal culture' type than the 'kill them for not wanting me' type). And the victim herself gets no point-of-view perspective, we see her exclusively through the two men's eyes, with one seeing her as a manipulative harlot, and the other seeing her as a perfect innocent dream girl. She never actually gets to be human. I'm not opposed to books with evil characters, or characters with disturbing views ("The Talented Mr. Ripley" is fascinating because of that choice). But in the case of "Horns", it didn't work for me. And given that the protagonist never questions, gets called out for, or gets punished for his misogynistic views, I get left with that lingering "where's the line between the character's beliefs and the author's belief's?" question.
 
-5. the beach
+4. The Testaments, by Margaret Atwood.
+
+5. The Beach, by Alex Garland.
 
 # Reflection
 
@@ -135,7 +140,7 @@ What's next year's theme going to be?
 | ----------- | ----------- |
 | insert title here | insert author here |
 | Redshirts | John Scalzi |
-| Sphere | Michael Crighton |
+| Sphere | Michael Crichton |
 | Brown Girl in the Ring | Nalo Hopkinson |
 | Andersen's Fairy Tales | H.C. Andersen |
 | Blue Mars | Kim Stanley Robinson |
